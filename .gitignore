@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Testing and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+*.xml
+
+# Misc
+*.log
+.DS_Store
